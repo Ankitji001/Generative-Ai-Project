@@ -63,7 +63,7 @@ The architecture was tuned to balance accuracy and overfitting control.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/pathmnist-cnn-classification.git
+   https://github.com/Ankitji001/Generative-Ai-Project.git
    pip install -r requirements.txt
    jupyter notebook
 
